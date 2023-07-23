@@ -16,7 +16,7 @@ import {
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import MenuIcon from '@mui/icons-material/Menu';
 import { createTheme, ThemeProvider, styled } from '@mui/material/styles';
-import { listItems } from './listItems';
+import { listItems } from './listItems.jsx';
 import { AddPatients } from './AddPatients.jsx';
 
 const drawerWidth = 240;
